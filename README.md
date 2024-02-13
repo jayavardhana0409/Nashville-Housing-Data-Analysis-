@@ -43,5 +43,3 @@ This script is designed to clean and preprocess data in the NashvilleHousing tab
 
 - Backup your data before running this script, as it modifies the existing table.
 - Review the script and adapt it to your specific database structure and requirements.
-
-Feel free to customize this README based on your specific context and audience.
